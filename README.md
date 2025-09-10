@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OES-org/.github/main/profile/cover.png" alt="Open Encyclopedia System Cover" width="100%" />
+  <img src="https://raw.githubusercontent.com/open-encyclopedia-system/open-encyclopedia-system/main/cover.png" alt="Open Encyclopedia System Cover" width="100%" />
 </p>
 
 # Open Encyclopedia System (OES)
