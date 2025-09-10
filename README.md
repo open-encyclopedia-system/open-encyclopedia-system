@@ -51,10 +51,7 @@ OES includes additional modules implemented as standalone WordPress plugins, pro
 
 ## Contributing
 
-We welcome contributions from the community.  
-- Report issues via GitHub Issues  
-- Submit pull requests with fixes or improvements  
-- Follow our guidelines in `CONTRIBUTING.md`  
+If you want to contribute to OES please contact the help desk info@open-encyclopedia-system.org. 
 
 ## License
 
