@@ -56,7 +56,7 @@ If you want to contribute to OES please contact the help desk info@open-encyclop
 ## License
 
 The Open Encyclopedia System (OES) is licensed under the GNU General Public License v2.0.  
-See the [LICENSE](LICENSE) file for details.  
+See the [LICENSE](LICENSE.txt) file for details.  
 
 ---
 
