@@ -27,6 +27,11 @@ It extends the landscape of online publishing (already established for journals 
 - Runs on PHP + HTTPS (e.g. Apache)  
 - Fully open-source under GPLv2 license  
 
+### Architecture
+<p align="center">
+  <img src="https://raw.githubusercontent.com/open-encyclopedia-system/open-encyclopedia-system/main/2021_OES_architecture.png" alt="OES Architecture" width="100%" />
+</p>
+
 ## Documentation
 
 - OES Manual:  
